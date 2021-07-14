@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+div {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  align-items: center;
+  text-align: center;
+  background: linear-gradient(rgba(27, 196, 238, 0.9), rgba(25, 180, 250, 0.5));
+  box-sizing: border-box;
+}
+
+h1 {
+  background: springgreen;
+  color: orangered;
+}
+button {
+  display: inline-block;
+  padding-bottom: 10px;
+  margin: 5px 0;
+  width: 10%;
+  color: red;
+  background: lime;
+}
